@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="boas-praticas-java" />
+        <module name="boas-praticas" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17" />
